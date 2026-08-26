@@ -195,7 +195,7 @@ form {
 }
 
 label{
-    font-eight: 600;
+    font-weight: 600;
     color: var(--cor-texto);
 
 }
